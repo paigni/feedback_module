@@ -2,3 +2,10 @@
 *.xml
 *.iml
 *.pyc
+*.vsidx
+.vs/feedback_module/v16/.suo
+.vs/feedback_module/v17/.suo
+*.lock
+*.config
+*.json
+*.sqlite
