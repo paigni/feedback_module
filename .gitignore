@@ -1,0 +1,13 @@
+
+*.vsidx
+.vs/feedback_module/v16/.suo
+*.config
+*.lock
+.vs/feedback_module/v17/.suo
+*.json
+*.sqlite
+project/.idea/.name
+*.xml
+*.iml
+*.pyc
+*.sqlite3
