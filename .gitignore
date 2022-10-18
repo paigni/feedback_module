@@ -1,4 +1,5 @@
 
+<<<<<<< HEAD
 *.vsidx
 .vs/feedback_module/v16/.suo
 *.config
@@ -11,3 +12,17 @@ project/.idea/.name
 *.iml
 *.pyc
 *.sqlite3
+=======
+*.xml
+*.iml
+*.pyc
+*.vsidx
+.vs/feedback_module/v16/.suo
+.vs/feedback_module/v17/.suo
+*.lock
+*.config
+*.json
+*.sqlite
+project/.idea
+*.sqlite-journal
+>>>>>>> dev
